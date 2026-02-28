@@ -4,9 +4,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Shivasai-hub/Leetcode/tree/master/0056-merge-intervals) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Shivasai-hub/Leetcode/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
