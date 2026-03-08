@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/Shivasai-hub/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
