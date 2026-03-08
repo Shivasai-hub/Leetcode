@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shivasai-hub/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/Shivasai-hub/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,5 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/Shivasai-hub/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
