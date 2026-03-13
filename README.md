@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Shivasai-hub/Leetcode/tree/master/0056-merge-intervals) |
+| [0118-pascals-triangle](https://github.com/Shivasai-hub/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivasai-hub/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0229-majority-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0118-pascals-triangle](https://github.com/Shivasai-hub/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivasai-hub/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Binary Search
