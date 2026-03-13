@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2325-decode-the-message](https://github.com/Shivasai-hub/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3110-score-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shivasai-hub/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
