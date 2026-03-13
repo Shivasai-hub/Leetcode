@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Shivasai-hub/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shivasai-hub/Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Shivasai-hub/Leetcode/tree/main/0075-sort-colors/) | Medium |
