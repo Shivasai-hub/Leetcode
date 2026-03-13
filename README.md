@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Shivasai-hub/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/Shivasai-hub/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Shivasai-hub/Leetcode/tree/main/0048-rotate-image/) | Medium |
