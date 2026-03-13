@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Shivasai-hub/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Shivasai-hub/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Shivasai-hub/Leetcode/tree/main/0050-powx-n/) | Medium |
