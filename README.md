@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shivasai-hub/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivasai-hub/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
