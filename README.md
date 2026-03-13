@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2325-decode-the-message](https://github.com/Shivasai-hub/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
