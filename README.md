@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Shivasai-hub/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Shivasai-hub/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shivasai-hub/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Shivasai-hub/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Shivasai-hub/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Shivasai-hub/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
