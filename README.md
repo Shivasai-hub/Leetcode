@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shivasai-hub/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shivasai-hub/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
