@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivasai-hub/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Shivasai-hub/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shivasai-hub/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2325-decode-the-message](https://github.com/Shivasai-hub/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Greedy
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Bit Manipulation
