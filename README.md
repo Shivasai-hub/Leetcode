@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/Shivasai-hub/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Shivasai-hub/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shivasai-hub/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
