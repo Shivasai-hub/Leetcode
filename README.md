@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivasai-hub/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Shivasai-hub/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Shivasai-hub/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1323-maximum-69-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/Shivasai-hub/Leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivasai-hub/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/Shivasai-hub/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shivasai-hub/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Shivasai-hub/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Shivasai-hub/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Shivasai-hub/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
