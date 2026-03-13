@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Shivasai-hub/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/0031-next-permutation/) | Medium |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shivasai-hub/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Shivasai-hub/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/0031-next-permutation/) | Medium |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shivasai-hub/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0055-jump-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
