@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shivasai-hub/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivasai-hub/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Shivasai-hub/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Shivasai-hub/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
