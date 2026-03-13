@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shivasai-hub/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Shivasai-hub/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shivasai-hub/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/Shivasai-hub/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
