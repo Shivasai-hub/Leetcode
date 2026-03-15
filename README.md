@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Shivasai-hub/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shivasai-hub/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Shivasai-hub/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Greedy
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivasai-hub/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shivasai-hub/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
