@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Shivasai-hub/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Shivasai-hub/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Shivasai-hub/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivasai-hub/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivasai-hub/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Shivasai-hub/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Shivasai-hub/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Shivasai-hub/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Shivasai-hub/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shivasai-hub/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Shivasai-hub/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
