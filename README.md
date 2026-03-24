@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shivasai-hub/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Shivasai-hub/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/Shivasai-hub/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Shivasai-hub/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Shivasai-hub/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Shivasai-hub/Leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shivasai-hub/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Shivasai-hub/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
