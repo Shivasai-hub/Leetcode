@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivasai-hub/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shivasai-hub/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Shivasai-hub/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivasai-hub/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivasai-hub/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Shivasai-hub/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivasai-hub/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
