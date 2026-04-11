@@ -1,14 +1,23 @@
 class Solution {
     public int arrangeCoins(int n) {
-        long sum = 0;
-        int cnt = 0;
-        for(int i = 1; i <= n; i++)
+        long low = 0, high = n;
+        while(low <= high)
         {
-            sum += i;
-            cnt++;
-            if(sum > n) return cnt - 1;
-            if(sum == n)    return cnt;
+            long mid = low + (high - low)/2;
+            long steps = mid * (mid + 1) / 2;
+            if(steps == n)
+            {
+                return (int)mid;
+            }
+            else if(steps < n)
+            {
+                low = mid + 1;
+            }
+            else
+            {
+                high = mid - 1;
+            }
         }
-        return cnt;
+        return (int)high;
     }
 }
