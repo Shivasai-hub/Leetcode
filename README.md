@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivasai-hub/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivasai-hub/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shivasai-hub/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Prefix Sum
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Shivasai-hub/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
