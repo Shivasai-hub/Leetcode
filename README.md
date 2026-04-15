@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivasai-hub/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shivasai-hub/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivasai-hub/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Shivasai-hub/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2325-decode-the-message](https://github.com/Shivasai-hub/Leetcode/tree/main/2325-decode-the-message/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shivasai-hub/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
