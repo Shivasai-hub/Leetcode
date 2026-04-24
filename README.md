@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shivasai-hub/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String Matching
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/Shivasai-hub/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/Shivasai-hub/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Breadth-First Search
@@ -495,4 +499,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 <!---LeetCode Topics End-->
