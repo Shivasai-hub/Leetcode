@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Shivasai-hub/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Shivasai-hub/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Shivasai-hub/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Shivasai-hub/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Shivasai-hub/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Shivasai-hub/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -556,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
