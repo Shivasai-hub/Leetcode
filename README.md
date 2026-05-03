@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shivasai-hub/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shivasai-hub/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Shivasai-hub/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
