@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivasai-hub/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Shivasai-hub/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/Shivasai-hub/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shivasai-hub/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivasai-hub/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shivasai-hub/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shivasai-hub/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0735-asteroid-collision](https://github.com/Shivasai-hub/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Shivasai-hub/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0735-asteroid-collision](https://github.com/Shivasai-hub/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shivasai-hub/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
