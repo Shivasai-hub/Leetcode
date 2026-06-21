@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivasai-hub/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivasai-hub/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Shivasai-hub/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Shivasai-hub/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
