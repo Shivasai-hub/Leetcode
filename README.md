@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shivasai-hub/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivasai-hub/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Shivasai-hub/Leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2325-decode-the-message](https://github.com/Shivasai-hub/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Shivasai-hub/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
