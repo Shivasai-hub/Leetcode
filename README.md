@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Shivasai-hub/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Shivasai-hub/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/Shivasai-hub/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shivasai-hub/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Shivasai-hub/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/Shivasai-hub/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shivasai-hub/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Shivasai-hub/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
