@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Shivasai-hub/Leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Shivasai-hub/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2325-decode-the-message](https://github.com/Shivasai-hub/Leetcode/tree/main/2325-decode-the-message/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Shivasai-hub/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shivasai-hub/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shivasai-hub/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shivasai-hub/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3174-clear-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shivasai-hub/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/3174-clear-digits/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
