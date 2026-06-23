@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivasai-hub/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shivasai-hub/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0290-word-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shivasai-hub/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivasai-hub/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
