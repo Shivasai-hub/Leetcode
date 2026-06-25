@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shivasai-hub/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Shivasai-hub/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/Shivasai-hub/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Shivasai-hub/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Shivasai-hub/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Shivasai-hub/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Shivasai-hub/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Design
