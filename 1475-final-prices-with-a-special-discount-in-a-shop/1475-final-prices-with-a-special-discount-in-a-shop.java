@@ -1,18 +1,22 @@
 class Solution {
     public int[] finalPrices(int[] prices) {
-        int[] arr = new int[prices.length];
+        int[] ans = new int[prices.length];
+        int j = 0;
+        for(int price : prices)
+        {
+            ans[j] = price;
+            j++;
+        }
+        Stack<Integer> st = new Stack<>();
         for(int i = 0; i < prices.length; i++)
         {
-            arr[i] = prices[i];
-            for(int j = i + 1; j < prices.length; j++)
+            while(!st.isEmpty() && prices[i] <= prices[st.peek()])
             {
-                if(prices[j] <= prices[i])
-                {
-                    arr[i] = prices[i] - prices[j];
-                    break;
-                }
+                int idx = st.pop();
+                ans[idx] = prices[idx] - prices[i];
             }
+            st.push(i);
         }
-        return arr;
+        return ans;
     }
 }
