@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivasai-hub/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Shivasai-hub/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Shivasai-hub/Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shivasai-hub/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Shivasai-hub/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Shivasai-hub/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Shivasai-hub/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
