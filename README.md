@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivasai-hub/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Shivasai-hub/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivasai-hub/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivasai-hub/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shivasai-hub/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivasai-hub/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivasai-hub/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shivasai-hub/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1323-maximum-69-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivasai-hub/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivasai-hub/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
