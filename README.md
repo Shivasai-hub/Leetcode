@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Shivasai-hub/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Shivasai-hub/Leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivasai-hub/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Shivasai-hub/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Shivasai-hub/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shivasai-hub/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shivasai-hub/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivasai-hub/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivasai-hub/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
